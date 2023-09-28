@@ -1,0 +1,3 @@
+food|1220
+clothes|14000
+car|500
